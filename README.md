@@ -1,6 +1,8 @@
 # tech-summary
 관심있거나, 기존에 했던 기술에 대해 더 알아보고 싶은 항목들 정리
 
+
+
 [SSE]
 
 * sse vuejs module 
@@ -19,6 +21,9 @@
 * 하둡에코시스템을 구성하는 구성요소
 - https://pythontoomuchinformation.tistory.com/474
 
+[컨테이너 오케스트레이션]
+* 쿠버네티스 
+- https://www.samsungsds.com/kr/insights/220222_kubernetes1.html
 
 [트레픽 탐지]
 * Suricata
@@ -34,7 +39,7 @@
 * Apache Camel
 - https://camel.apache.org/
 
-*Mule
+* Mule
 - https://born-dev.tistory.com/41
 
 * Kakao Skill Builder
@@ -60,7 +65,57 @@
 * rabbitMQ
 - https://kamang-it.tistory.com/entry/AMQPRabbitMQRabbitMQ%EC%95%84%EC%A3%BC-%EA%B8%B0%EC%B4%88%EC%A0%81%EC%9D%B4%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-JavafeatHello-World-2
 
+* Streaming Protocol
+- https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=mingyo01&logNo=222050438291
+
+* Kafka
+
+* rabbitMQ vs Kafka
+- https://tech.kakao.com/2021/12/23/kafka-rabbitmq/
+
+[Inmemory data store]
+* Redis - 운영잘하는 법
+- https://www.oss.kr/storage/app/public/festival/track2/2-1.pdf
+
+[소프트웨어 설계]
+* 소프트웨어 설계(아키텍쳐)를 잘하는 방법
+- https://subokim.wordpress.com/2011/08/30/how-to-design-software/
+
+[시스템 구조]
+* Metadata Deiven Architecture
+- https://blogs.halodoc.io/metadata-driven-architecture/
+
+[Javascript 동향]
+* 202년과 이후 Javascript의 동향 - WebAssembly
+- https://d2.naver.com/helloworld/8257914
 
 [데이터 분석]
+* 데이터 레이크
+- https://www.samsungsds.com/kr/insights/big_data_lake.html
+- http://www.openwith.net/?page_id=2497
+
+* 데이터 이동
+- http://www.openwith.net/?page_id=2404
+
+* Hive와 Hbase
+- http://www.openwith.net/?page_id=2394
+
 * 데이터 분석 기초
 - https://connectdot.tistory.com/11
+
+[기계학습]
+* 한눈에 보는 머신러닝
+- https://jeinalog.tistory.com/12
+* 딥러닝을 이용한 자연어 처리 입문
+- https://wikidocs.net/21679
+
+[터널링]
+* 로컬터널 클라이언트
+- https://github.com/localtunnel/localtunnel
+
+* 로컬터널 중계서버
+https://github.com/localtunnel/server#post-apitunnels
+
+[시계열 데이터 저장]
+*TICK Stack
+- https://notemusic.tistory.com/67
