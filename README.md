@@ -85,6 +85,13 @@
 * Metadata Deiven Architecture
 - https://blogs.halodoc.io/metadata-driven-architecture/
 
+* Micro Service Architecture(MSA)
+- https://sihyung92.oopy.io/architecture/woowa-msa-travel
+* Doamin Driven Architecture(DDD)
+- https://incheol-jung.gitbook.io/docs/q-and-a/architecture/ddd
+* Command Query Responsibility Segregation(CQRS)
+- https://bluayer.com/37
+
 [Javascript 동향]
 * 202년과 이후 Javascript의 동향 - WebAssembly
 - https://d2.naver.com/helloworld/8257914
