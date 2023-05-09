@@ -14,5 +14,7 @@
 
 [영화속에서 배웠던 것들]
 - 사고에 대비하는 자세를 리마인드하기 좋은 영화: "그 누구도 처음 당하는 재난에 대비되어 있을 수는 없습니다." - 허드슨강의 기적 
+: 재난 속에 가장 현명한 판단을 내릴 수 있는 역량과 판단을 갖추자.
 - "전 언제나 숫자를 믿어왔습니다. 추론을 이끌어내는 방정식과 논리를 말이죠. 하지만 평생 그것들을 연구한 저는 묻습니다. 무엇이 진정한 논리입니까? 누가 이성을 결정하는 거죠? 저는 그동안 물질적 세계와 형이상학적 세계, 망상의 세계에 빠졌다가 이렇게 돌아왔습니다. 전 소중한 것을 발견했습니다. 그건 제 인생에서 가장 소중한 발견입니다. 어떠한 논리나 추론도 사랑이라는 신비한 방정식 안에서만 이해될 수 있습니다. (관객석의 알리시아를 바라보며) 난 당신 덕분에 이 자리에 섰어요. 당신은 내가 존재하는 이유이며, 내 모든 존재의 이유예요. 감사합니다."  
 Nash: I’ve always believed in numbers, in equations, in logic and reason. But after a lifetime of such pursuits: I ask what truly is logic? Who decides reason? My quest has taken me to the physical, the metaphysical, the delusional, and back. I have made the most important discovery of my career-the most important discovery of my life. It is only in the mysterious equations of love that any logic or reasons can be found. I am only here tonight because of you. You are the reason I am. You are all my reasons. Thank you.(뷰티풀마인드-존내쉬)
+: 아무리 바빠도 나의 삶에 있어 무엇이 소중한지 잊지말자. (+ 다짐을 했다면, 이루기 위한 방법만을 생각해보자. _스스로 상황을 탓하며 합리화 할 수 있는 상황은 조심해보자.)
