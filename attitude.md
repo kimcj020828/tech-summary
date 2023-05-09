@@ -12,9 +12,33 @@
 - 모르는 것을 인정하고(모르는데 아는 것처럼 행동하는 것은 조심하자), 아는 것도 주기적으로 잊지 않게 익히고 알고 있는 것이 사실인지 확인하자.
 
 
-[영화속에서 배웠던 것들]
+[배웠던 것들]
 - 사고에 대비하는 자세를 리마인드하기 좋은 영화: "그 누구도 처음 당하는 재난에 대비되어 있을 수는 없습니다." - 허드슨강의 기적 
 : 재난 속에 가장 현명한 판단을 내릴 수 있는 역량과 판단을 갖추자.
 - "전 언제나 숫자를 믿어왔습니다. 추론을 이끌어내는 방정식과 논리를 말이죠. 하지만 평생 그것들을 연구한 저는 묻습니다. 무엇이 진정한 논리입니까? 누가 이성을 결정하는 거죠? 저는 그동안 물질적 세계와 형이상학적 세계, 망상의 세계에 빠졌다가 이렇게 돌아왔습니다. 전 소중한 것을 발견했습니다. 그건 제 인생에서 가장 소중한 발견입니다. 어떠한 논리나 추론도 사랑이라는 신비한 방정식 안에서만 이해될 수 있습니다. (관객석의 알리시아를 바라보며) 난 당신 덕분에 이 자리에 섰어요. 당신은 내가 존재하는 이유이며, 내 모든 존재의 이유예요. 감사합니다."  
 Nash: I’ve always believed in numbers, in equations, in logic and reason. But after a lifetime of such pursuits: I ask what truly is logic? Who decides reason? My quest has taken me to the physical, the metaphysical, the delusional, and back. I have made the most important discovery of my career-the most important discovery of my life. It is only in the mysterious equations of love that any logic or reasons can be found. I am only here tonight because of you. You are the reason I am. You are all my reasons. Thank you.(뷰티풀마인드-존내쉬)
 : 아무리 바빠도 나의 삶에 있어 무엇이 소중한지 잊지말자. (+ 다짐을 했다면, 이루기 위한 방법만을 생각해보자. _스스로 상황을 탓하며 합리화 할 수 있는 상황은 조심해보자.)
+
+- 순대국집 벽에 걸린 기도문
+-큰 일을 이루기 위해 힘을 주십사 하나님께 기도했더니
+겸손을 배우라고 연약함을 주셨다.
+
+많은 일을 할 수 있는 건강을 구했는데
+보다 가치 있는 일을 하라고 병을 주셨다.
+
+행복해지고 싶어 부유함을 구했더니
+지혜로워지라고 가난을 주셨다.
+
+세상 사람들의 칭찬을 받고자 성공을 구했더니
+뽐내지 말라고 실패를 주셨다.
+
+삶을 누릴 수 있게 모든 것을 가질 수 있게 해달라고 기도했더니
+모든 것을 누릴 수 있는 삶 그 자체를 선물로 주셨다.
+
+구한 것 하나도 주시지 않았지만
+내 소원 모두 들어주셨다.
+
+하나님의 뜻을 따르지 못하는 삶이었지만
+내 마음 속에 진작에 표현하지 못하던 기도는 모두 들어 주셨다.
+
+나는 가장 많은 복을 받은 사람이다.
