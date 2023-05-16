@@ -123,6 +123,11 @@
 * 로컬터널 중계서버
 https://github.com/localtunnel/server#post-apitunnels
 
+[Single Sign On, SSO]
+* Central Authentication Service,CAS
+* Security Assertion Markup Language,SAML
+* Open Authorization, OAuth 
+
 [시계열 데이터 저장]
 *TICK Stack
 - https://notemusic.tistory.com/67
