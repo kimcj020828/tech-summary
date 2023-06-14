@@ -1,7 +1,9 @@
 # tech-summary
 관심있거나, 기존에 했던 기술에 대해 더 알아보고 싶은 항목들 정리
 
-
+[DevOps]
+* 이론
+* - https://github.com/bregman-arie/devops-resources
 
 [SSE]
 
