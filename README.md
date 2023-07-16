@@ -82,6 +82,7 @@
 [Inmemory data store]
 * Redis - 운영잘하는 법
 - https://www.oss.kr/storage/app/public/festival/track2/2-1.pdf
+- http://redisgate.kr/redisgate/ent/ent_intro.php
 
 [소프트웨어 설계]
 * 소프트웨어 설계(아키텍쳐)를 잘하는 방법
