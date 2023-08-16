@@ -132,6 +132,9 @@ https://github.com/localtunnel/server#post-apitunnels
 
 [Single Sign On, SSO]
 * Central Authentication Service,CAS
+- apereo: https://github.com/apereo/cas
+- ScribeJAVA: ScribeJAVA로 OAuth2.0 인증서버 구축하기(https://blog.itcode.dev/posts/2021/10/14/oauth2-java-server-1)
+
 * Security Assertion Markup Language,SAML
 * Open Authorization, OAuth 
 
