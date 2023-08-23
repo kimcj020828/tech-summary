@@ -92,6 +92,8 @@
 * Metadata Deiven Architecture
 - https://blogs.halodoc.io/metadata-driven-architecture/
 
+* Conway's Law
+- 소프트웨어 구조는 개발 조직의 커뮤니케이션 구조를 닮는다.
 * Micro Service Architecture(MSA)
 - https://sihyung92.oopy.io/architecture/woowa-msa-travel
 * Doamin Driven Architecture(DDD)
