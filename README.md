@@ -8,6 +8,8 @@
 [DevOps]
 * 이론
 - https://github.com/bregman-arie/devops-resources
+* cilium 컨테이터 보안
+- https://ddii.dev/kubernetes/cilium-1/
 
 [SSE]
 
