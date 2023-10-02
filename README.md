@@ -127,6 +127,10 @@
 * 딥러닝을 이용한 자연어 처리 입문
 - https://wikidocs.net/21679
 
+[수학적 지식] 
+* 생새우초밥집(통계, 물리 머신러닝에 사용되는 수학 지식)
+- https://freshrimpsushi.github.io/
+
 [터널링]
 * 로컬터널 클라이언트
 - https://github.com/localtunnel/localtunnel
